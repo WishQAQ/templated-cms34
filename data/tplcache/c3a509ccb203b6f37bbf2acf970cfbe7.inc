@@ -1,0 +1,1 @@
+<li><div><h4>[field:title/]</h4><a href="[field:goumai/]" rel="nofollow" target="_blank">[field:goumai/]</a><br><span>旺旺/QQ：[field:QQ/]</span><a href="[field:goumai/]" rel="nofollow" target="_blank" class="buy">立即购买</a></div></li>
